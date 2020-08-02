@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pagination-ReactInfinteScroll-VanillaJS-/static/css/main.4719000b.chunk.css",
+    "main.js": "/Pagination-ReactInfinteScroll-VanillaJS-/static/js/main.0a548f82.chunk.js",
+    "main.js.map": "/Pagination-ReactInfinteScroll-VanillaJS-/static/js/main.0a548f82.chunk.js.map",
+    "runtime-main.js": "/Pagination-ReactInfinteScroll-VanillaJS-/static/js/runtime-main.6eade6de.js",
+    "runtime-main.js.map": "/Pagination-ReactInfinteScroll-VanillaJS-/static/js/runtime-main.6eade6de.js.map",
+    "static/js/2.f3d54c2c.chunk.js": "/Pagination-ReactInfinteScroll-VanillaJS-/static/js/2.f3d54c2c.chunk.js",
+    "static/js/2.f3d54c2c.chunk.js.map": "/Pagination-ReactInfinteScroll-VanillaJS-/static/js/2.f3d54c2c.chunk.js.map",
+    "index.html": "/Pagination-ReactInfinteScroll-VanillaJS-/index.html",
+    "precache-manifest.01e873fc6e63dd60a2006d21e391ef5a.js": "/Pagination-ReactInfinteScroll-VanillaJS-/precache-manifest.01e873fc6e63dd60a2006d21e391ef5a.js",
+    "service-worker.js": "/Pagination-ReactInfinteScroll-VanillaJS-/service-worker.js",
+    "static/css/main.4719000b.chunk.css.map": "/Pagination-ReactInfinteScroll-VanillaJS-/static/css/main.4719000b.chunk.css.map",
+    "static/js/2.f3d54c2c.chunk.js.LICENSE.txt": "/Pagination-ReactInfinteScroll-VanillaJS-/static/js/2.f3d54c2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6eade6de.js",
+    "static/js/2.f3d54c2c.chunk.js",
+    "static/css/main.4719000b.chunk.css",
+    "static/js/main.0a548f82.chunk.js"
+  ]
+}
