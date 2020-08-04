@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Pagination-ReactInfinteScroll-VanillaJS-/precache-manifest.01e873fc6e63dd60a2006d21e391ef5a.js"
+  "/Pagination-ReactInfinteScroll-VanillaJS-/precache-manifest.c7257679f21eba36c59c2dd5664a434a.js"
 );
 
 self.addEventListener('message', (event) => {
